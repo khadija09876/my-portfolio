@@ -3,7 +3,7 @@ import developerImage from "../assets/developer.png"; // <-- updated relative pa
 
 function Hero() {
   return (
-    <section id="home">
+    <section id="home" className="hero-section">
       <div
         className="container"
         style={{
